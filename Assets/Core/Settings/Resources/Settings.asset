@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firebaseRemoteKey: STORE
   landingUrl: https://instorepubun.com/
-  additionalUrl: 
+  additionalUrl: https://data-sling.com
   oneSignalAppID: fb12d57f-96c0-4e79-ba45-8784e1662b89
   privacyPoliceUrl: https://instorepubun.com/#privacy
   termsOfUseUrl: https://instorepubun.com/#terms
