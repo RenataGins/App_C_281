@@ -1039,7 +1039,9 @@ PrefabInstance:
 
         By
         using the app, you hereby consent to our Privacy Policy and agree to its
-        Terms and Conditions.'
+        Terms and Conditions.
+
+'
       objectReference: {fileID: 0}
     - target: {fileID: 2063936199821136158, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
       propertyPath: m_SizeDelta.y
@@ -2325,7 +2327,7 @@ PrefabInstance:
         including liabilities arising in contract, in tort and for breach of statutory
         duty.\nAs long as the website and the information and services on the website
         are provided free of charge, we will not be liable for any loss or damage
-        of any nature."
+        of any nature.\n"
       objectReference: {fileID: 0}
     - target: {fileID: 2063936199821136158, guid: 627731be0f7d24d6dbc4c46399aef849, type: 3}
       propertyPath: m_SizeDelta.y
